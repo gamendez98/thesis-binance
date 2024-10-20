@@ -25,3 +25,15 @@ t = time
 
 L_r = L + R()
 
+# Data sources
+
+### Binance
+
+- T (transaction time): It's the last time at which the orderbook was updated
+- E (event time / message out time): is T + server side latency
+- lastUpdateId: The last ID updated in the request. It is sequential, meaning that it can be used to find how many
+updates happened between two fetches
+
+### Directional Losses
+
+- Directional mae: https://www.sciencedirect.com/science/article/pii/S1877750324001686?via%3Dihub
