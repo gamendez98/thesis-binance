@@ -2,6 +2,10 @@
 
 here are some of the questions to be answered with this experiments
 
+### Dataset
+
+we are using F1-2010 benchmark dataset, it is available [here](https://etsin.fairdata.fi/dataset/73eb48d7-4dbc-4a10-a52a-da745b47a649/data)
+
 ### Anatoley-Gerko as a regularized loss function
 
 In the unnormalized anatoley-gerko loss `L = C * B - A` is the B term a form of regularization?
