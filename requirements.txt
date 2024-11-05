@@ -2,3 +2,4 @@ tensorflow~=2.16.1
 numpy~=1.26.4
 requests~=2.32.3
 kagglehub~=0.3.3
+pandas~=2.2.3
