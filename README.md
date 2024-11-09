@@ -1,3 +1,9 @@
+# TODO
+
+- Train MOE-TS with MSE
+- try other losses
+
+
 # Research questions
 
 here are some of the questions to be answered with this experiments
@@ -41,3 +47,5 @@ updates happened between two fetches
 ### Directional Losses
 
 - Directional mae: https://www.sciencedirect.com/science/article/pii/S1877750324001686?via%3Dihub
+
+

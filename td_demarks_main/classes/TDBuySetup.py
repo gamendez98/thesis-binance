@@ -1,4 +1,4 @@
-from classes.BearishTDPriceFlip import BearishTDPriceFlip
+from td_demarks_main.classes.BearishTDPriceFlip import BearishTDPriceFlip
 
 class TDBuySetup:
     def __init__(self, tdTrader, index, parameters):
